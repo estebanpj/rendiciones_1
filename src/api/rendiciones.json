@@ -1,0 +1,45 @@
+{
+    "rendiciones": [
+        {
+            "value": false,
+            "fondo": "001",
+            "fechainicio": "09-06-1994",
+            "fechafin": "10-06-1994",
+            "total": "$100.000",
+            "estado": "Aceptada"
+        },
+        {
+            "value": false,
+            "fondo": "002",
+            "fechainicio": "09-06-1994",
+            "fechafin": "10-06-1994",
+            "total": "$200.000",
+            "estado": "Aceptada"
+        },
+        {
+            "value": false,
+            "fondo": "003",
+            "fechainicio": "09-06-1994",
+            "fechafin": "10-06-1994",
+            "total": "$300.000",
+            "estado": "Aceptada"
+        },
+        {
+            "value": false,
+            "fondo": "004",
+            "fechainicio": "09-06-1994",
+            "fechafin": "10-06-1994",
+            "total": "$400.000",
+            "estado": "Aceptada"
+        },
+        {
+            "value": false,
+            "fondo": "005",
+            "fechainicio": "09-06-1994",
+            "fechafin": "10-06-1994",
+            "total": "$500.000",
+            "estado": "Aceptada"
+        }
+    ]
+
+}    

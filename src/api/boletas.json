@@ -1,0 +1,126 @@
+{
+  "boletas": [
+    {
+      "id": 1,
+      "boleta": 345876,
+      "gasto": "Estacionamiento",
+      "fecha": "09-06-1994",
+      "monto": 150000,
+      "motivo": "viaje a marte",
+      "foto": "aaaa"
+    },
+    {
+      "boleta": "333444",
+      "gasto": "Alimentación",
+      "fecha": "2018-12-12",
+      "monto": "6969",
+      "foto": "",
+      "id": 2
+    },
+    {
+      "boleta": "222",
+      "gasto": "Estacionamiento",
+      "fecha": "2019-01-16",
+      "monto": "432000",
+      "foto": "",
+      "id": 3
+    },
+    {
+      "boleta": "234",
+      "gasto": "Peajes",
+      "fecha": "2019-01-13",
+      "monto": "555444000",
+      "foto": "",
+      "id": 4
+    },
+    {
+      "boleta": "dddd",
+      "gasto": "Estacionamiento",
+      "fecha": "2019-01-15",
+      "monto": "123457000",
+      "foto": "",
+      "id": 5
+    },
+    {
+      "boleta": "",
+      "gasto": "",
+      "fecha": "",
+      "monto": "",
+      "motivo": "hhhh",
+      "foto": "",
+      "id": 6
+    },
+    {
+      "boleta": "333333",
+      "gasto": "Peajes",
+      "fecha": "2019-01-14",
+      "monto": "12000",
+      "motivo": "PRUEBAstg",
+      "foto": "",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "boleta": "333333",
+      "gasto": "Peajes",
+      "fecha": "2019-01-14",
+      "monto": "12000",
+      "motivo": "PRUEBAstg",
+      "foto": ""
+    },
+    {
+      "id": 9,
+      "boleta": "3333334",
+      "gasto": "Peajes",
+      "fecha": "2019-01-14",
+      "monto": "12000",
+      "motivo": "PRUEBAstg",
+      "foto": ""
+    },
+    {
+      "id": 10,
+      "boleta": "33333345",
+      "gasto": "Peajes",
+      "fecha": "2019-01-14",
+      "monto": "12000",
+      "motivo": "PRUEBAstg",
+      "foto": ""
+    },
+    {
+      "id": 11,
+      "boleta": "333333456",
+      "gasto": "Peajes",
+      "fecha": "2019-01-14",
+      "monto": "12000",
+      "motivo": "PRUEBAstg",
+      "foto": ""
+    }
+  ],
+  "rendiciones": [
+    {
+      "id": 1,
+      "value": false,
+      "fondo": "001",
+      "fechainicio": "09-06-1994",
+      "fechafin": "10-06-1994",
+      "total": "$100.000",
+      "estado": "Aceptada"
+    },
+    {
+      "fondo": "322",
+      "fechainicio": "2018-12-04",
+      "fechafin": "2018-12-25",
+      "total": "333000",
+      "estado": "Enviada",
+      "id": 2
+    },
+    {
+      "fondo": "23",
+      "fechainicio": "2018-12-05",
+      "fechafin": "2018-12-19",
+      "total": "300000",
+      "estado": "Enviada",
+      "id": 3
+    }
+  ]
+}
